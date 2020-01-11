@@ -29,12 +29,6 @@
     "url": "https://github.com/halldwang/ppo-cli/issues"
   },
   "homepage": "https://github.ahthw.com/ppo/",
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint",
-      "pre-push": "npm run lint"
-    }
-  },
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
