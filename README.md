@@ -14,9 +14,9 @@ ppo little poor, gzip less than 6k, so a library you can use it anytime, anywher
 
 See the [latest docs/documentation](https://github.ahthw.com/ppo/) for a full API reference.
 
-## From:
+## Recommendation
 
-Project from：[https://github.com/a-jie/ppo](https://github.com/a-jie/ppo)
+Latest Branch [bbo-next](https://github.com/halldwang/ppo/tree/bbo-next)
 
 ## Installation
 
