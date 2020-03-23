@@ -25,7 +25,6 @@ package-lock.json
 node_modules
 coverage
 npm-debug.log
-docs
 .tern-project
 dist_mod/
 test_runner/test_bundle.js
